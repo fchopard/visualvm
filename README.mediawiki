@@ -1,0 +1,13 @@
+==VisualVM development area==
+
+This place is about [http://visualvm.java.net/ VisualVM] development stuff.
+
+VisualVM is a visual tool integrating several commandline JDK tools and lightweight
+profiling capabilities. Designed for both production and development time use, it
+further enhances the capability of monitoring and performance analysis for the Java SE platform.
+
+This tool is built on the NetBeans platform and provides a full extension API that allows
+to create new monitoring plugin to address specific needs.
+
+The goal of this respo is to give hints on how to create such plugins and if time allows
+provide some that are ready to use.

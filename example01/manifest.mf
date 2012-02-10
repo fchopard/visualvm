@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.github.fch.visualvm.plugin.example01
+OpenIDE-Module-Localizing-Bundle: org/github/fch/visualvm/plugin/example01/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
